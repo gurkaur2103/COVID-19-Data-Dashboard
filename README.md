@@ -43,8 +43,11 @@ Generates a table and a line chart based on user inputs.
 
 # Technologies Used
 Python: For data processing and backend logic.
+
 Streamlit: To create an interactive web app.
+
 Plotly: For dynamic and visually appealing data visualizations.
+
 Pandas: For efficient data handling and analysis.
 
 # Data Source
@@ -52,4 +55,5 @@ This project uses publicly available data from Our World in Data.
 
 # Author
 Developed by Gurpreet Kaur.
+
 Feel free to connect on LinkedIn
